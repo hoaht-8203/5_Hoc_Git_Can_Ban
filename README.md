@@ -52,3 +52,5 @@ const handle = () => {
 | content 1.1 | content 2.1 | content 3.1 | content 4.1 |
 
 ![Kiến thức branch](./kien_thuc_branch.png)
+
+Handle A da edit
