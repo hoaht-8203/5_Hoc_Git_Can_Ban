@@ -54,3 +54,4 @@ const handle = () => {
 ![Kiến thức branch](./kien_thuc_branch.png)
 
 Handle A da edit
+Handle B da edit
